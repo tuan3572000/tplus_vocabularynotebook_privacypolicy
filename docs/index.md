@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Vocabulary Notebook - TPlus
+This page contains information about Privacy policy and data collection polocy of Vocabulary Notebook - TPlus application. 
 
-You can use the [editor on GitHub](https://github.com/tuan3572000/tplus_vocabularynotebook_privacypolicy/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy Policy 
 
-### Markdown
+Vocabulary Notebook - TPlus application does not collect any type of information from your device. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Permissions
+Following are the permissions required for Vocabulary Notebook - TPlus application with their reasons,
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuan3572000/tplus_vocabularynotebook_privacypolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    1.Microphone - Required to capture audio on card's definition
+    2.Storage - Required to store vocabulary, audio, images
+    3.Internet - To translate vocabulary
+    
+### Advertisements
+Vocabulary Notebook - TPlus appliction does not show any ads or does not contain any material or content which requires purchase. Audio Recorder is completely free to use.
+### Data Collection
+As specified in Privacy policy section, app does not collect any type of data from your device. 
